@@ -1,0 +1,4 @@
+Model Evaluation:
+Mean Squared Error: 0.014238169491526982
+R-squared: 0.9950010975522421
+Mean Absolute Error: 0.03420338983059026
